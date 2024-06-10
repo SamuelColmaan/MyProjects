@@ -1,6 +1,6 @@
 # Estou criando um programa que me permita 
 # automatizar todas as tarefas do computador
-# Desde 08/june/2024
+# since 08/june/2024
 
 
 import pyautogui as pa
